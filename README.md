@@ -1,2 +1,3 @@
 # venetan.xml
-Venetan translatiion
+Venetan translation
+initial translation
